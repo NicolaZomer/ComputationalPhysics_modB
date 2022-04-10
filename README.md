@@ -15,7 +15,7 @@ This repository contains a collection of algorithms and models for data analysis
 - [Data visualization and clustering](.\05_Visual_Clustering): dimensionality reduction, PCA, t-SNE, K-means, Hierarchical clustering, Density-based (DB) clustering, DBSCAN.
 - [Unsupervised learning and Boltzmann machines](.\06_Boltzmann_Machines)
 
-## Assingment
+## Assignment
 As a weekly exercise, in the second week the professor gave us an assignment on DNN. Unlike the other exercises, in this case we also had to produce a short paper, which can be read at this [link](./02_DNN_Assignment/Assignment_LCP_B.pdf).
 
 ## References 
