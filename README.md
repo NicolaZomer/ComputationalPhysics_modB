@@ -11,9 +11,9 @@ This repository contains a collection of algorithms and models for data analysis
 - [Gradient descent](./01_Gradient_Descent): vanilla and stochastig GD, momentum, Nesterov Accelerated Gradient (NAG), RMS Prop, Adam, ADA max.
 - [Deep neural networks](./02_DNN_Assignment): review of DNN, applications with Keras and Tensorflow. 
 - [Convolutional neural networks](./03_CNN): review of CNN, applications with Keras and Tensorflow. 
-- [Combining models, focus on XGBoost and tsfresh](.\04_XGBoost_tsfresh): bagging, decision trees, AdaBoost, XGBoost. 
-- [Data visualization and clustering](.\05_Visual_Clustering): dimensionality reduction, PCA, t-SNE, K-means, Hierarchical clustering, Density-based (DB) clustering, DBSCAN.
-- [Unsupervised learning and Boltzmann machines](.\06_Boltzmann_Machines)
+- [Combining models, focus on XGBoost and tsfresh](./04_XGBoost_tsfresh): bagging, decision trees, AdaBoost, XGBoost. 
+- [Data visualization and clustering](./05_Visual_Clustering): dimensionality reduction, PCA, t-SNE, K-means, Hierarchical clustering, Density-based (DB) clustering, DBSCAN.
+- [Unsupervised learning and Boltzmann machines](./06_Boltzmann_Machines): Restricted Boltzmann machines.
 
 ## Assignment
 As a weekly exercise, in the second week the professor gave us an assignment on DNN. Unlike the other exercises, in this case we also had to produce a short paper, which can be read at this [link](./02_DNN_Assignment/Assignment_LCP_B.pdf).
